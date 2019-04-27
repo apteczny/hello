@@ -1,3 +1,4 @@
+VAT7(WERSJA 19)
 <?xml version="1.0" encoding="UTF-8"?><xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/DefinicjeTypy/" xmlns:tns="http://crd.gov.pl/wzor/2019/02/11/7013/" xmlns:vzd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2019/02/07/eD/VATZD/" xmlns:zzu="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/ORDZU/" targetNamespace="http://crd.gov.pl/wzor/2019/02/11/7013/" elementFormDefault="qualified" attributeFormDefault="unqualified" xml:lang="pl">
 	<xsd:import namespace="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2019/02/07/eD/VATZD/" schemaLocation="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2019/02/07/eD/VATZD/VAT-ZD(1)_v3-0E.xsd"/>
 	<xsd:import namespace="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/ORDZU/" schemaLocation="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/ORDZU/ORD-ZU(3)_v2-0E.xsd"/>
