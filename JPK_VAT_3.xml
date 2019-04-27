@@ -1,4 +1,4 @@
-Wersja 3 Pliku JPK
+Wersja 3 Pliku JPK 2019-04-27
 <?xml version="1.0" encoding="UTF-8"?><tns:JPK xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2016/01/25/eD/DefinicjeTypy/" xmlns:tns="http://jpk.mf.gov.pl/wzor/2017/11/13/1113/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <tns:Naglowek>
     <tns:KodFormularza kodSystemowy="JPK_VAT (3)" wersjaSchemy="1-1">JPK_VAT</tns:KodFormularza>
